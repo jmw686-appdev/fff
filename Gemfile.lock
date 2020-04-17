@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: 69bf603afea56d6ec4ec4727a330a78eb5c33381
+  revision: 1faf57cccbf4a6a29ec0521044cd3c7a7eecca07
   branch: jw-fix-git-status
   specs:
     web_git (0.1.0)
