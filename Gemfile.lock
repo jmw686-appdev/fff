@@ -15,8 +15,8 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: 9112c93d8cc58f51d692bc55c4d5e99ddddfe659
-  branch: spring2020
+  revision: 69bf603afea56d6ec4ec4727a330a78eb5c33381
+  branch: jw-fix-git-status
   specs:
     web_git (0.1.0)
       actionview
